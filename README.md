@@ -1,6 +1,6 @@
 # _Calculator_
 
-#### _single Webpage for Epicodus, 10.17.2018_
+#### _single Webpage for Epicodus, updated 10.18.2018_
 
 #### By _**Kenny Wolfenberger and Kaveh Saleminejad**_
 
